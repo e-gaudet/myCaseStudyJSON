@@ -1,0 +1,222 @@
+[
+      {
+        "ID": "123d2",
+        "BRANDID": "2",
+        "BRAND": "Korg",
+        "COSTPRICE": "5499.9900",
+        "DESCRIPTION": "Ideal for composing, recording, and combo use, the intuitive Pa4X really comes to life in the hands of the solo keyboard performer and entertainer. And nowhere else is the flawless operation and superior sound of one keyboard instrument more in the spotlight. To that end, every aspect of KORGs industry-leading Professional Arranger series has been re-examined and improved, resulting in the Pa4X—an instrument without equal. The all-new EDS-X (Enhanced Definition Synthesis – Expanded) sound engine delivers unprecedented realism and highly detailed sounds, drawing on a massive PCM resource over 10 times larger than those found in previous models. KORGs exclusive DNC (Defined Nuance Control) provides highly-articulate solo instruments. Partnerships with Waves Audio and TC Helicon provide state-of-the-art audio processing and vocal effects. Plus, there are tons of new instruments and drumkits, along with a massive infusion of Styles to cover a world of musical genres.",
+        "GRAPHICNAME": "korg_pax4.png",
+        "MSRP": "5499.9900",
+        "QTYONHAND": "4",
+        "QTYONBACKORDER": "0"
+      },
+      {
+        "ID": "1a2d2",
+        "BRANDID": "1",
+        "BRAND": "Yamaha",
+        "COSTPRICE": "509.9900",
+        "DESCRIPTION": "The nine foot CFX is a full sized concert grand piano characterized by a wide palette of tonal colors and the ability to create the most subtle expressive nuances. The CFX can project over the sound of a symphony orchestra, even in very large halls. The crowning glory of the Yamaha line, todays CFX concert grand incorporates numerous refinements in performance, appearance and safety, elevating this revered instrument to an even higher standard of excellence.",
+        "GRAPHICNAME": "yamaha_cfx.jpg",
+        "MSRP": "509.9900",
+        "QTYONHAND": "0",
+        "QTYONBACKORDER": "1"
+      },
+      {
+        "ID": "2341d",
+        "BRANDID": "1",
+        "BRAND": "Yamaha",
+        "COSTPRICE": "599.9900",
+        "DESCRIPTION": "Welcome to the new era in Synthesizers from the company that brought you the industry-changing DX and the hugely popular Motif. Building on the legacy of these two iconic keyboards, the Yamaha Montage sets the next milestone for Synthesizers with sophisticated dynamic control, massive sound creation and streamlined workflow all combined in a powerful keyboard designed to inspire your creativity. If you liked the DX and Motif, get ready to love Montage",
+        "GRAPHICNAME": "montage.jpg",
+        "MSRP": "599.9900",
+        "QTYONHAND": "0",
+        "QTYONBACKORDER": "3"
+      },
+      {
+        "ID": "2ds24",
+        "BRANDID": "2",
+        "BRAND": "Korg",
+        "COSTPRICE": "499.9900",
+        "DESCRIPTION": "The RK-100S provides a built-in sound engine that was not found on the original RK, meaning that you can perform simply by connecting an audio cable. Its MMT sound engine provides not only the standard analog synthesizer waveforms such as sawtooth and square, but also additional oscillator algorithms such as formant waveforms, noise, and PCM, which power two hundred programs for a broad range of sounds that will cover any musical genre. These sounds can also be played using the arpeggiator.",
+        "GRAPHICNAME": "RK100S.jpg",
+        "MSRP": "499.9900",
+        "QTYONHAND": "0",
+        "QTYONBACKORDER": "15"
+      },
+      {
+        "ID": "32dsa2",
+        "BRANDID": "4",
+        "BRAND": "Casio",
+        "COSTPRICE": "999.9900",
+        "DESCRIPTION": "The CGP-700 is your ideal creative partner. It combines authentic piano sound and feel, an incredible six-speaker sound system, and an intuitive Color Touch Interface. Its a perfect instrument for any home, and when you are ready to gig, it becomes a lightweight, portable stage piano.",
+        "GRAPHICNAME": "Casio-CGP-700BK.jpg",
+        "MSRP": "999.9900",
+        "QTYONHAND": "0",
+        "QTYONBACKORDER": "4"
+      },
+      {
+        "ID": "34jf2",
+        "BRANDID": "3",
+        "BRAND": "Roland",
+        "COSTPRICE": "4099.9900",
+        "DESCRIPTION": "Digital technology meets artisan tradition in the new KIYOLA KF-10. Created in collaboration between Roland and Japanese furniture designer Karimoku, this refined digital piano achieves a perfect harmony of form and function: a powerful instrument that makes a sophisticated statement in your home. With its model name translating as elegance and beauty, the KIYOLA KF-10 is visually unique in the modern piano market, offering an all-natural, hand-crafted wood cabinet that complements your living space and lifestyle. Meanwhile, the presence of Rolands innovative digital piano technology delivers the performance you demand as a player, with flagship features including SuperNATURAL Piano sound modelling, dynamic sensing technology via the new PHA-50 keyboard, wireless Bluetooth connectivity to your favorite music-making apps and a dynamic array of speakers that fill your home with sound. Available in a Walnut or Pure Oak finish, with a foot pedal and ergonomically designed piano bench included, the KIYOLA KF-10 is a digital piano to both admire and enjoy.",
+        "GRAPHICNAME": "KIYOLA_KF-10_img.jpg",
+        "MSRP": "4099.9900",
+        "QTYONHAND": "4",
+        "QTYONBACKORDER": "0"
+      },
+      {
+        "ID": "5f29d",
+        "BRANDID": "1",
+        "BRAND": "Yamaha",
+        "COSTPRICE": "599.9900",
+        "DESCRIPTION": "Portable Performance Powerhouse The flagship model in the PSR-E series is built for playing live. Easy-to-use professional features, 76-key touch response keyboard, new Live! Grad Piano Voice, computer and external storage connectivity, and L/R outputs for connecting to a PA system.",
+        "GRAPHICNAME": "PSR-EW400.jpg",
+        "MSRP": "599.9900",
+        "QTYONHAND": "8",
+        "QTYONBACKORDER": "0"
+      },
+      {
+        "ID": "8dsd2",
+        "BRANDID": "4",
+        "BRAND": "Casio",
+        "COSTPRICE": "5899.9900",
+        "DESCRIPTION": "CELVIANO Grand Hybrid reproduces even subtle nuances of the worlds most respected pianos. Three pianos that originate in Berlin, Hamburg and Vienna were chosen for this project. CASIO has painstakingly researched and analyzed the unique characteristics of each piano. CELVIANO Grand Hybrid delivers brilliant sound of these pianos reproduced with CASIOs advanced technology. It will provide the experience of owning three of the finest pianos on earth",
+        "GRAPHICNAME": "GP-300WE_xlarge.png",
+        "MSRP": "5899.9900",
+        "QTYONHAND": "4",
+        "QTYONBACKORDER": "0"
+      },
+      {
+        "ID": "9fn2d",
+        "BRANDID": "3",
+        "BRAND": "Roland",
+        "COSTPRICE": "5899.9900",
+        "DESCRIPTION": "Have you always wanted to learn the piano, but don’t know how to get started? Rolands GO:PIANO is a complete piano learning solution, allowing you to turn the dream into reality. The affordable GO:PIANO is a top-quality portable piano that makes learning easy and fun. It features authentic sound derived from Rolands premium home pianos and Bluetooth for wireless connection to music education apps on your favorite mobile devices. Plus, it comes with the best-selling piano method: Faber Piano Adventures to get students started on the right path. Adding in built-in speakers, convenient practice features, and more, GO:PIANO is the perfect companion for starting your piano-playing journey.",
+        "GRAPHICNAME": "r_gopiano_main.jpg",
+        "MSRP": "399.9900",
+        "QTYONHAND": "9",
+        "QTYONBACKORDER": "0"
+      },
+      {
+        "ID": "b1nfw",
+        "BRANDID": "1",
+        "BRAND": "Yamaha",
+        "COSTPRICE": "4799.0000",
+        "DESCRIPTION": "Yamahas b Series features pianos in a range of heights, widths, and depths. The b1 and b2 boast slender profiles, making them ideal for small spaces. With its larger dimensions and heavier construction, the b3 upright requires a little more room but brings a rich, far-reaching sound.",
+        "GRAPHICNAME": "yamaha_b1.jpg",
+        "MSRP": "4799.0000",
+        "QTYONHAND": "3",
+        "QTYONBACKORDER": "0"
+      },
+      {
+        "ID": "b92sa",
+        "BRANDID": "3",
+        "BRAND": "Roland",
+        "COSTPRICE": "1299.9900",
+        "DESCRIPTION": "Travel-ready, affordable, and outfitted with top-level Roland sounds, the V-Combo VR-09 is the ideal all-in-one solution for performing keyboard players. Dedicated piano, organ, and synth sound engines—organized in three intuitive blocks on the front panel—provide all the essential tones you need, right under your fingertips. The powerful real-time controls give you maximum expression on stage, with nine sliders for tone shaping and a large array of knobs and buttons for tweaking the seven simultaneous effects and various parameters. Other great features include an onboard looper, a drum section stocked with a library of rhythms for practice and jamming, and more. With its versatile sound selection, inspiring operation, and smart user interface, the V-Combo VR-09 is a dream come true for gigging musicians.",
+        "GRAPHICNAME": "vr-09_top_main.jpg",
+        "MSRP": "1299.9900",
+        "QTYONHAND": "5",
+        "QTYONBACKORDER": "0"
+      },
+      {
+        "ID": "dsak2",
+        "BRANDID": "2",
+        "BRAND": "Korg",
+        "COSTPRICE": "499.9900",
+        "DESCRIPTION": "TRITON taktile controller feature a stylish design that projects a sense of professionalism, functionality and style, together with the same great-feeling semi-weighted keyboard thats used on synthesizers and music workstations such as the KingKORG and KROME. Its loaded with functions that make it fun to play and use, such as a touch pad inherited from the Kaossilator that lets you play melodies using just a single finger, trigger pads that let you generate chords in the key and scale of your choice and an arpeggiator that includes rhythm patterns. Of course, the TRITON taktile also delivers the functionality that you expect from a MIDI controller. It provides all of the basic controllers such as sliders and switches, and makes setup easy so you can start producing music right away. Convenience is not the only attraction of TRITON taktile its a MIDI controller thats full of features that will stimulate your creativity.",
+        "GRAPHICNAME": "triton_taktile.png",
+        "MSRP": "499.9900",
+        "QTYONHAND": "4",
+        "QTYONBACKORDER": "0"
+      },
+      {
+        "ID": "f92md",
+        "BRANDID": "3",
+        "BRAND": "Roland",
+        "COSTPRICE": "8099.9900",
+        "DESCRIPTION": "The V-Piano soars above the limitations of past technologies with its revolutionary living piano core, allowing every note to respond and evolve naturally, seamlessly, and perfectly without requiring samples. With the V-Piano, there is no velocity switching, and it provides a smooth, natural decay that must be heard to be believed",
+        "GRAPHICNAME": "VPiano-large.jpg",
+        "MSRP": "8099.9900",
+        "QTYONHAND": "2",
+        "QTYONBACKORDER": "0"
+      },
+      {
+        "ID": "fas92",
+        "BRANDID": "3",
+        "BRAND": "Roland",
+        "COSTPRICE": "2999.9900",
+        "DESCRIPTION": "If you play the piano, you understand that inspiration can come from anywhere—where you play, who you play with, and of course, the audience you perform for. If you want to take your music to the people, the Roland FP-90 Digital Piano will help you get there. It packs Rolands flagship piano sound engine and keyboard into a sleek, modern cabinet that also houses a multi-channel speaker system with enough power for performing in intimate venues. A carefully selected range of additional sounds that include electric pianos, strings, organs, and synths are on hand as well, allowing you to use the FP-90 in a wide variety of musical scenarios. And with Bluetooth audio/MIDI support, you are able to connect wirelessly with Rolands Piano Partner 2 and other music apps on a smartphone or tablet. Available in black or white finishes, the flexible FP-90 is ready to go wherever you want to play.",
+        "GRAPHICNAME": "rolandfp90pg.jpg",
+        "MSRP": "2999.9900",
+        "QTYONHAND": "5",
+        "QTYONBACKORDER": "0"
+      },
+      {
+        "ID": "fd82j",
+        "BRANDID": "4",
+        "BRAND": "Casio",
+        "COSTPRICE": "1499.9900",
+        "DESCRIPTION": "The MZ-X500 provides over 1,100 high-quality Tones, covering a global variety of instruments. No matter what type of music you want to play, the MZ-X500 delivers. Acoustic guitars include fret noise, harmonics, string slides and body slaps. Basses have smooth glissando from note to note. The new Versatile Tones provide these and other nuances, conveying incredible realism. The Tones can be easily modified to suit your tastes, thanks to the Color Touch Interface and real-time control knobs and sliders. You can also draw on a selection of 20 different effects to fit any occasion.",
+        "GRAPHICNAME": "casio-MZX500.jpg",
+        "MSRP": "1499.9900",
+        "QTYONHAND": "0",
+        "QTYONBACKORDER": "2"
+      },
+      {
+        "ID": "fi2d1",
+        "BRANDID": "4",
+        "BRAND": "Casio",
+        "COSTPRICE": "799.9900",
+        "DESCRIPTION": "The successor to the popular PX-150, the Privia PX-160 utilizes Casios famous AiR Sound Source and its remarkable Tri-Sensor Scaled Hammer Action II keyboard. With several enhancements in sounds and features over the previous generation, the PX-160 continues to provide world-class features and style at an unbeatable price",
+        "GRAPHICNAME": "px-160-bottom.jpg",
+        "MSRP": "799.9900",
+        "QTYONHAND": "6",
+        "QTYONBACKORDER": "0"
+      },
+      {
+        "ID": "fs2d1",
+        "BRANDID": "1",
+        "BRAND": "Yamaha",
+        "COSTPRICE": "199.9900",
+        "DESCRIPTION": "61-key, entry-level Portable Keyboard featuring a wide variety of sounds and functions the PSR-E263 is an ideal first keyboard for aspiring musicians who are just starting out",
+        "GRAPHICNAME": "psre263.jpg",
+        "MSRP": "199.9900",
+        "QTYONHAND": "16",
+        "QTYONBACKORDER": "0"
+      },
+      {
+        "ID": "fwk2m",
+        "BRANDID": "4",
+        "BRAND": "Casio",
+        "COSTPRICE": "3099.9900",
+        "DESCRIPTION": "The Celviano line of pianos has been refined for those who demand an authentic grand piano experience. The new AP-700s traditional design houses new stereo grand piano sounds and redesigned keyboard action. Utilizing a new tri-sensor spring-less 88 note scaled hammer action, every nuance and detail of your performance is captured.",
+        "GRAPHICNAME": "AP-700_xl.png",
+        "MSRP": "3099.9900",
+        "QTYONHAND": "5",
+        "QTYONBACKORDER": "0"
+      },
+      {
+        "ID": "h2d42",
+        "BRANDID": "2",
+        "BRAND": "Korg",
+        "COSTPRICE": "2199.9900",
+        "DESCRIPTION": "Designed with performance in mind, the SV-1BK is a pleasure to play. Once you try it, you will understand what all the excitement is about. The RH3 Real Weighted Hammer Action is the finest keybed Korg offers, with a solid, responsive feel that inspires confidence. Forget menus. Never mind banks and programs. Stop staring at displays. With the SV-1BK, the entire front panel is always live, using clearly labeled knobs to dial up just the sound you are looking for. Saving your eight Favorite settings for quick recall is as easy as saving a station on your car radio.",
+        "GRAPHICNAME": "korgsv1.png",
+        "MSRP": "2199.9900",
+        "QTYONHAND": "8",
+        "QTYONBACKORDER": "0"
+      },
+      {
+        "ID": "vf8fh",
+        "BRANDID": "2",
+        "BRAND": "Korg",
+        "COSTPRICE": "1999.9900",
+        "DESCRIPTION": "The HAVIAN 30 provides classic grand, upright and electric piano sounds, plus a collection of additional musical instrument sounds, in a compact and stylish cabinet. It has been designed with ease of use and enjoyment in mind, while never compromising on the quality of sound or power required by the professional musician. The high-quality European hammer-action keys give the user an accurate response and feel of playing a grand piano. The finely-tuned, authentic acoustic piano sound will satisfy the most demanding player, and the accompaniment sounds and performances are inherited from the world-renowned KORG Pa-Series arranger keyboards. Thanks to the optional stylish stand with damper pedal support and convenient headphone hook, the HAVIAN 30 will fit perfectly in every living room.",
+        "GRAPHICNAME": "korg_havian30.jpg",
+        "MSRP": "1999.9900",
+        "QTYONHAND": "7",
+        "QTYONBACKORDER": "0"
+      }
+    ]
