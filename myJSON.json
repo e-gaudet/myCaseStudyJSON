@@ -3,14 +3,14 @@
         "ID": "123d2",
         "BRANDID": "2",
         "BRAND": "Korg",
-        "COSTPRICE": "5499.9900",
+        "COSTPRICE": "109.9900",
         "PRODUCTNAME": "Pax 4 professional arranger",
-        "DESCRIPTION": "Ideal for composing, recording, and combo use, the intuitive Pa4X really comes to life in the hands of the solo keyboard performer and entertainer. And nowhere else is the flawless operation and superior sound of one keyboard instrument more in the spotlight. To that end, every aspect of KORGs industry-leading Professional Arranger series has been re-examined and improved, resulting in the Pa4X—an instrument without equal. The all-new EDS-X (Enhanced Definition Synthesis – Expanded) sound engine delivers unprecedented realism and highly detailed sounds, drawing on a massive PCM resource over 10 times larger than those found in previous models. KORGs exclusive DNC (Defined Nuance Control) provides highly-articulate solo instruments. Partnerships with Waves Audio and TC Helicon provide state-of-the-art audio processing and vocal effects. Plus, there are tons of new instruments and drumkits, along with a massive infusion of Styles to cover a world of musical genres. 
+        "DESCRIPTION": "Ideal for composing, recording, and combo use, the intuitive Pa4X really comes to life in the hands of the solo keyboard performer and entertainer. And nowhere else is the flawless operation and superior sound of one keyboard instrument more in the spotlight. To that end, every aspect of KORGs industry-leading Professional Arranger series has been re-examined and improved, resulting in the Pa4Xâ€”an instrument without equal. The all-new EDS-X (Enhanced Definition Synthesis â€“ Expanded) sound engine delivers unprecedented realism and highly detailed sounds, drawing on a massive PCM resource over 10 times larger than those found in previous models. KORGs exclusive DNC (Defined Nuance Control) provides highly-articulate solo instruments. Partnerships with Waves Audio and TC Helicon provide state-of-the-art audio processing and vocal effects. Plus, there are tons of new instruments and drumkits, along with a massive infusion of Styles to cover a world of musical genres. 
 
 ",
         "GRAPHICNAME": "korg_pax4.png",
-        "MSRP": "5499.9900",
-        "QTYONHAND": "4",
+        "MSRP": "109.9900",
+        "QTYONHAND": "3",
         "QTYONBACKORDER": "0"
       },
       {
@@ -41,13 +41,13 @@
         "ID": "2ds24",
         "BRANDID": "2",
         "BRAND": "Korg",
-        "COSTPRICE": "499.9900",
+        "COSTPRICE": "99.9900",
         "PRODUCTNAME": "Korg RK100S Keytar",
         "DESCRIPTION": "The RK-100S provides a built-in sound engine that was not found on the original RK, meaning that you can perform simply by connecting an audio cable. Its MMT sound engine provides not only the standard analog synthesizer waveforms such as sawtooth and square, but also additional oscillator algorithms such as formant waveforms, noise, and PCM, which power two hundred programs for a broad range of sounds that will cover any musical genre. These sounds can also be played using the arpeggiator.",
         "GRAPHICNAME": "RK100S.jpg",
-        "MSRP": "499.9900",
-        "QTYONHAND": "0",
-        "QTYONBACKORDER": "15"
+        "MSRP": "99.9900",
+        "QTYONHAND": "10",
+        "QTYONBACKORDER": "0"
       },
       {
         "ID": "32dsa2",
@@ -103,7 +103,7 @@
         "BRAND": "Roland",
         "COSTPRICE": "5899.9900",
         "PRODUCTNAME": "Go-Paino KB",
-        "DESCRIPTION": "Have you always wanted to learn the piano, but don’t know how to get started? Rolands GO:PIANO is a complete piano learning solution, allowing you to turn the dream into reality. The affordable GO:PIANO is a top-quality portable piano that makes learning easy and fun. It features authentic sound derived from Rolands premium home pianos and Bluetooth for wireless connection to music education apps on your favorite mobile devices. Plus, it comes with the best-selling piano method: Faber Piano Adventures to get students started on the right path. Adding in built-in speakers, convenient practice features, and more, GO:PIANO is the perfect companion for starting your piano-playing journey.",
+        "DESCRIPTION": "Have you always wanted to learn the piano, but donâ€™t know how to get started? Rolands GO:PIANO is a complete piano learning solution, allowing you to turn the dream into reality. The affordable GO:PIANO is a top-quality portable piano that makes learning easy and fun. It features authentic sound derived from Rolands premium home pianos and Bluetooth for wireless connection to music education apps on your favorite mobile devices. Plus, it comes with the best-selling piano method: Faber Piano Adventures to get students started on the right path. Adding in built-in speakers, convenient practice features, and more, GO:PIANO is the perfect companion for starting your piano-playing journey.",
         "GRAPHICNAME": "r_gopiano_main.jpg",
         "MSRP": "399.9900",
         "QTYONHAND": "9",
@@ -127,7 +127,7 @@
         "BRAND": "Roland",
         "COSTPRICE": "1299.9900",
         "PRODUCTNAME": "VR-09 Keyboard",
-        "DESCRIPTION": "Travel-ready, affordable, and outfitted with top-level Roland sounds, the V-Combo VR-09 is the ideal all-in-one solution for performing keyboard players. Dedicated piano, organ, and synth sound engines—organized in three intuitive blocks on the front panel—provide all the essential tones you need, right under your fingertips. The powerful real-time controls give you maximum expression on stage, with nine sliders for tone shaping and a large array of knobs and buttons for tweaking the seven simultaneous effects and various parameters. Other great features include an onboard looper, a drum section stocked with a library of rhythms for practice and jamming, and more. With its versatile sound selection, inspiring operation, and smart user interface, the V-Combo VR-09 is a dream come true for gigging musicians.",
+        "DESCRIPTION": "Travel-ready, affordable, and outfitted with top-level Roland sounds, the V-Combo VR-09 is the ideal all-in-one solution for performing keyboard players. Dedicated piano, organ, and synth sound enginesâ€”organized in three intuitive blocks on the front panelâ€”provide all the essential tones you need, right under your fingertips. The powerful real-time controls give you maximum expression on stage, with nine sliders for tone shaping and a large array of knobs and buttons for tweaking the seven simultaneous effects and various parameters. Other great features include an onboard looper, a drum section stocked with a library of rhythms for practice and jamming, and more. With its versatile sound selection, inspiring operation, and smart user interface, the V-Combo VR-09 is a dream come true for gigging musicians.",
         "GRAPHICNAME": "vr-09_top_main.jpg",
         "MSRP": "1299.9900",
         "QTYONHAND": "5",
@@ -164,7 +164,7 @@
         "BRAND": "Roland",
         "COSTPRICE": "2999.9900",
         "PRODUCTNAME": "FP-90 Piano",
-        "DESCRIPTION": "If you play the piano, you understand that inspiration can come from anywhere—where you play, who you play with, and of course, the audience you perform for. If you want to take your music to the people, the Roland FP-90 Digital Piano will help you get there. It packs Rolands flagship piano sound engine and keyboard into a sleek, modern cabinet that also houses a multi-channel speaker system with enough power for performing in intimate venues. A carefully selected range of additional sounds that include electric pianos, strings, organs, and synths are on hand as well, allowing you to use the FP-90 in a wide variety of musical scenarios. And with Bluetooth audio/MIDI support, you are able to connect wirelessly with Rolands Piano Partner 2 and other music apps on a smartphone or tablet. Available in black or white finishes, the flexible FP-90 is ready to go wherever you want to play.",
+        "DESCRIPTION": "If you play the piano, you understand that inspiration can come from anywhereâ€”where you play, who you play with, and of course, the audience you perform for. If you want to take your music to the people, the Roland FP-90 Digital Piano will help you get there. It packs Rolands flagship piano sound engine and keyboard into a sleek, modern cabinet that also houses a multi-channel speaker system with enough power for performing in intimate venues. A carefully selected range of additional sounds that include electric pianos, strings, organs, and synths are on hand as well, allowing you to use the FP-90 in a wide variety of musical scenarios. And with Bluetooth audio/MIDI support, you are able to connect wirelessly with Rolands Piano Partner 2 and other music apps on a smartphone or tablet. Available in black or white finishes, the flexible FP-90 is ready to go wherever you want to play.",
         "GRAPHICNAME": "rolandfp90pg.jpg",
         "MSRP": "2999.9900",
         "QTYONHAND": "5",
